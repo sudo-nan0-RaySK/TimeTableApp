@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "911037266782",
+    "firebase_url": "https://the-time-table-app.firebaseio.com",
+    "project_id": "the-time-table-app",
+    "storage_bucket": "the-time-table-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911037266782:android:c653a3e1dba01dc0",
+        "android_client_info": {
+          "package_name": "com.example.legendarychild.timetableapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911037266782-vt7743adv38abvkrc5m41nhsd8f4sp6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.legendarychild.timetableapp",
+            "certificate_hash": "43df306d43c0e9aa1d664ef04c5c13f4ee86cb87"
+          }
+        },
+        {
+          "client_id": "911037266782-5e9218g516o88l4m59ntf98rigc9a9hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkCbwRcpXkxzq29sgfhWIbK6VVKJkOyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911037266782-5e9218g516o88l4m59ntf98rigc9a9hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
